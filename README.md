@@ -18,8 +18,6 @@
 - **Version Control**: Git & GitHub
 - **Tools**: VS Code, Postman, Docker
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilasdeveloper&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 - 📧 Email: nbilrmpranata@gmail.com
